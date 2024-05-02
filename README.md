@@ -1,3 +1,3 @@
 # trabalhando-com-branches
 
-Estudos sobre criação de branches
+Repositório criado para o estudo da criação de branches em um projeto
